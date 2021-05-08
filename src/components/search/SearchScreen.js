@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo } from 'react';
 import queryString from 'query-string';
 import { useLocation } from 'react-router';
 import { HeroCard } from '../../heroes/HeroCard';
